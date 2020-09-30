@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp_website",
+  "version": "1.0.0",
+  "description": "Bootcamp github hosted website with package bundler",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
