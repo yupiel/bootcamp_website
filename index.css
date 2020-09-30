@@ -1,0 +1,17 @@
+body {
+  background-color: cyan;
+}
+
+.bigText {
+  font-size: 70px;
+}
+
+.hRed {
+  color: red;
+}
+
+.firstDiv:hover {
+  background-color: blueviolet;
+  height: 200px;
+  color: white;
+}

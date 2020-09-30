@@ -8,8 +8,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "parcel index.html",
+    "build": "parcel build index.html --out-dir docs --public-url ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
